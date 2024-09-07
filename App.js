@@ -4,8 +4,8 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Movie
-        
+      <Text>Movi
+
       </Text>
       <StatusBar style="auto" />
     </View>
